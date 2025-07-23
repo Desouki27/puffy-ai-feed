@@ -1,0 +1,553 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to ship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Shipping is free for all Puffy products.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you clean a Puffy mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Spot‑clean the mattress with cold water and mild detergent to keep it fresh.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is covered in the lifetime warranty?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The lifetime warranty covers all Puffy mattresses, bed frames, bedding, and accessories for as long as you own them.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where are Puffy mattresses made?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Every Puffy mattress is designed, manufactured, assembled, and sewn in the USA.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you fix a sagging mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Puffy mattresses are built to last over ten years, and sagging is addressed through the 101 night trial or lifetime warranty replacement.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between the Puffy Cloud and the Puffy Lux Hybrid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Cloud is a ten inch six layer memory foam mattress, Lux Hybrid is a twelve inch eight layer hybrid with contour adapt coils for extra support and cooling.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between the Puffy Cloud and the Puffy Royal Hybrid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Cloud is a ten inch memory foam mattress, Royal Hybrid is a fourteen inch ten layer model with zoned support and Cloud Breeze airflow cooling.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between the Puffy Cloud and the Puffy Monarch Hybrid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Cloud is a ten inch memory foam mattress, Monarch Hybrid is a sixteen inch twelve layer model adding latex, alpaca wool quilt, and enhanced contouring.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between the Puffy Lux Hybrid and the Puffy Royal Hybrid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Lux Hybrid is twelve inches eight layers with coils, Royal Hybrid is fourteen inches ten layers with zoned support and Cloud Breeze airflow.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between the Puffy Lux Hybrid and the Puffy Monarch Hybrid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Lux Hybrid is twelve inches with coils, Monarch Hybrid is sixteen inches with latex, alpaca wool pillow top, and thicker contouring foams.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What benefits does a Puffy smart bed set offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Smart bed sets provide remote controlled head and leg elevation, Zero G pressure relief, massage zones, and under bed lighting.\"",
+        "url": "https://puffy.com/03_cloud_smart_bed"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in each Puffy smart bed set?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Each smart bed set includes a Serenity Adjustable Base, a Puffy mattress of the chosen size, two memory foam pillows, and a sleep mask.\"",
+        "url": "https://puffy.com/03_cloud_smart_bed"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much is a smart bed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The Puffy Cloud Smart Bed Set starts at about one thousand six hundred forty eight dollars for Twin XL during sale.\"",
+        "url": "https://puffy.com/03_cloud_smart_bed"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does smart bed set price include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The price includes the adjustable base, matching mattress, and a free luxury pillow and mask bundle.\"",
+        "url": "https://puffy.com/03_cloud_smart_bed"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do all smart bed set sizes have a split base?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Only the Split King size ships with two separate bases, other sizes use a single unified base.\"",
+        "url": "https://puffy.com/03_cloud_smart_bed"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does a king smart bed work with split base?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"A Split King smart bed lets two independent bases operate under one king mattress, allowing individual adjustment.\"",
+        "url": "https://puffy.com/03_cloud_smart_bed"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What features does the adjustable base offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The Serenity Adjustable Base offers Zero G preset, three speed massage, USB ports, and under bed lighting controlled by wireless remote.\"",
+        "url": "https://puffy.com/04_serenity_adjustable_base"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the pros and cons of an adjustable bed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Pros are pressure relief, customizable positions, massage, and lighting, cons are higher cost and the need for compatible sheets.\"",
+        "url": "https://puffy.com/04_serenity_adjustable_base"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are adjustable bases worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Owners report better sleep and pain relief, making the investment worthwhile, especially with the 101 night trial.\"",
+        "url": "https://puffy.com/04_serenity_adjustable_base"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you put any mattress on an adjustable bed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Puffy mattresses work on the adjustable base, and other flexible mattresses that bend safely can also be used.\"",
+        "url": "https://puffy.com/04_serenity_adjustable_base"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use my existing headboard and footboard with the adjustable base?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Most existing headboards and footboards can attach to the Serenity Adjustable Base.\"",
+        "url": "https://puffy.com/04_serenity_adjustable_base"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Serenity Adjustable Base height from floor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The Serenity Adjustable Base stands about fifteen inches from floor to deck top.\"",
+        "url": "https://puffy.com/04_serenity_adjustable_base"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Serenity Base work with split king mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"With a split king base you can use one king mattress or two Twin XLs and still have independent controls.\"",
+        "url": "https://puffy.com/04_serenity_adjustable_base"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much weight can my Puffy mattress hold?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Puffy mattresses support up to three hundred fifty pounds per sleeper, seven hundred pounds total for couples.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What base should a Puffy mattress have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Any flat surface works, including slatted or platform frames, box springs, adjustable bases, or even the floor.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to flip my Puffy mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"No flipping needed, you may rotate one hundred eighty degrees occasionally if desired.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set up my Puffy mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Unbox, place on base, remove plastic, and let it expand, setup takes minutes.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long before I can sleep on my Puffy mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Wait about two hours after unboxing before sleeping on your Puffy mattress.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you make custom-size mattresses or mattresses for RVs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Puffy offers only standard US sizes and does not make custom or RV mattresses.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a hybrid mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"A hybrid mattress combines memory foam comfort layers with coil support for added stability and airflow.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you flip a hybrid mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"You never need to flip a Puffy hybrid mattress.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Difference between memory foam and hybrid mattresses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Memory foam models are all foam, hybrids add coils and latex in Monarch for edge support and cooling.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best foundation for a hybrid mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Any sturdy bed frame works for Puffy hybrids, no box spring required.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between Puffy mattresses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Puffy Cloud, Lux Hybrid, Royal Hybrid, and Monarch Hybrid differ in height, number of layers, materials, firmness, and cooling features.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does 'hybrid mattress' mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"A hybrid mattress blends two mattress types, typically foam and coils, into one design.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does your return policy work with the 101-night sleep trial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"During the 101 night trial you must try the mattress at least two weeks, within one hundred one nights Puffy will collect it free and refund you fully.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are the foams in the mattress CertiPUR‑US certified?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"All foams used in Puffy mattresses are CertiPUR US certified.\"",
+        "url": "https://puffy.com/02_cloud_mattress"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the dimensions and weight of the Puffy mattresses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Detailed size tables list dimensions for every mattress model and size.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the weight capacity of the Puffy mattresses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Weight capacity is up to three hundred fifty pounds per person on any Puffy mattress.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the business hours for customer support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Customer support operates five a.m. to eight p.m. PST on weekdays and eight a.m. to five p.m. PST on weekends.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do returns work with the 101-night sleep trial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Returns are free pickups with full refunds if requested within one hundred one nights after a minimum two week trial.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you return your mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Email support with your order number to schedule pickup, the mattress is donated to charity.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it free to return a product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Returns are free, no shipping charges or restocking fees apply.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do the mattresses weigh?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Mattress weights for a Queen size: Cloud fifty four pounds, Lux eighty nine pounds, Royal one hundred five pounds, Monarch one hundred six pounds.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How tall are Puffy mattresses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Mattress heights are Cloud ten inches, Lux twelve inches, Royal fourteen inches, Monarch sixteen inches.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Puffy get indentations where you sleep over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The lifetime warranty covers permanent indentations and sagging.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can each Puffy mattress be used on an adjustable base?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"All Puffy mattresses are compatible with adjustable bases, including the Serenity model.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the dimensions of each Puffy mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Mattress dimension charts provide specific length, width, and height for each size and model.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will you pick up and remove my old mattress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Puffy does not remove old mattresses, they recommend local donation services or junk removal.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which type of pillow is best?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"A supportive pillow that contours head and neck and allows adjustable loft is ideal, the Puffy Signature Pillow offers this.\"",
+        "url": "https://puffy.com/05_signature_pillow"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do sleeping pillows cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The Signature Pillow standard size costs about one hundred twenty dollars retail with discounts bringing it to around one hundred two dollars.\"",
+        "url": "https://puffy.com/05_signature_pillow"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most comfortable pillow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Reviews describe the Signature Pillow as very comfortable and supportive for various sleep positions.\"",
+        "url": "https://puffy.com/05_signature_pillow"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for in a pillow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Look for support, alignment, adjustable fill, and a washable cover when choosing a pillow.\"",
+        "url": "https://puffy.com/05_signature_pillow"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often do you replace pillows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Replace pillows once they no longer provide support, Puffy pillows are noted for long lifespan.\"",
+        "url": "https://puffy.com/05_signature_pillow"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you wash pillows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The Signature Pillow bamboo rayon cover is machine washable at home.\"",
+        "url": "https://puffy.com/05_signature_pillow"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly will my Puffy order arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Orders ship free and typically arrive within one to two business days.\"",
+        "url": "https://puffy.com/02_cloud_mattress"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Puffy provide financing or payment plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Financing through Affirm offers low monthly payments on Puffy product pages.\"",
+        "url": "https://puffy.com/05_signature_pillow"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which mattress sizes are available in Puffy range?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"Puffy offers Twin, Twin XL, Full, Queen, King, California King, and Split King sizes.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the 101-night sleep trial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The 101 night sleep trial lets you test products at home risk free with free returns and a full refund.\"",
+        "url": "https://puffy.com/07_faq"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the Serenity Adjustable Base offer massage modes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"The Serenity Adjustable Base includes three speed massage modes for relaxing comfort.\"",
+        "url": "https://puffy.com/04_serenity_adjustable_base"
+      }
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Puffy",
+    "url": "https://puffy.com"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "dateModified": "2025-07-24"
+}
